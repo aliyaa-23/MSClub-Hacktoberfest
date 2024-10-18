@@ -7,6 +7,8 @@ def is_prime(n):
             return False
     return True
 
+def add(a, b)
+    return a + b
 if __name__ == "__main__":
     num = int(input("Enter a number: "))
     print(f"{num} is a prime number: {is_prime(num)}")
